@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KarnAbhinav00/static/css/main.e7445724.css",
+    "main.js": "/KarnAbhinav00/static/js/main.5a0fe95d.js",
+    "index.html": "/KarnAbhinav00/index.html",
+    "main.e7445724.css.map": "/KarnAbhinav00/static/css/main.e7445724.css.map",
+    "main.5a0fe95d.js.map": "/KarnAbhinav00/static/js/main.5a0fe95d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7445724.css",
+    "static/js/main.5a0fe95d.js"
+  ]
+}
