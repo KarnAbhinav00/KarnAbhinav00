@@ -1,7 +1,11 @@
-# <h1 align="center">Hi 👋, I'm Abhinav</h1>
+<h1 align="center">Hi 👋, I'm Abhi</h1>
 
 <p align="center">
-💻 Tech Enthusiast | 🤖 AI Explorer | 🚀 Future Developer
+Tech Enthusiast | AI Explorer | Future Developer
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=KarnAbhinav00&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
@@ -10,17 +14,16 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-* 🎓 Student at **KV Janakpuri**
-* 🤖 Interested in **Artificial Intelligence**
-* 🌐 Learning **Full Stack Development**
-* ⚡ Currently learning the **MERN Stack**
-* 🧠 Exploring **Machine Learning**
+Student at **KV Janakpuri**
+Interested in **Artificial Intelligence**
+Learning **Full Stack Development**
+Currently exploring the **MERN Stack**
 
 ---
 
-# 🚀 Tech Stack
+## Tech Stack
 
 ### MERN Stack
 
@@ -31,36 +34,36 @@
 ### Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KarnAbhinav00&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=KarnAbhinav00&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## Top Languages
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=KarnAbhinav00&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarnAbhinav00&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Top Languages
+## GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarnAbhinav00&layout=compact&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=KarnAbhinav00&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📉 Contribution Graph
+## Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarnAbhinav00&theme=tokyo-night" />
@@ -68,12 +71,6 @@
 
 ---
 
-# 👀 Profile Views
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=KarnAbhinav00&label=Profile%20views&color=0e75b6&style=flat" />
+Thanks for visiting my profile
 </p>
-
----
-
-⭐ *Thanks for visiting my profile!*
