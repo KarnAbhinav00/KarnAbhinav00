@@ -16,7 +16,11 @@
 
 # 🌐 Socials
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium\&logoColor=white)](https://medium.com/@abhinav.dev036)
+<p align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/abhinav.dev036)
+
+</p>
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:karn.abhinav00@gmail.com)
 
 ---
