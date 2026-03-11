@@ -8,6 +8,10 @@
 
 🤝 Always open to **learning, collaborating, and building cool projects**.
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=KarnAbhinav00&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
 ---
 
 # 🌐 Socials
