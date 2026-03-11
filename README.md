@@ -19,9 +19,9 @@
 <p align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/abhinav.dev036)
-
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:karn.abhinav00@gmail.com)
 </p>
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:karn.abhinav00@gmail.com)
+
 
 ---
 
