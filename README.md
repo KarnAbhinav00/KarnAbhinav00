@@ -1,124 +1,74 @@
-# 💫 About Me
+<p align="center">Hi 👋, I'm Abhinav</p>
 
-✨ I'm **Abhinav**, a student at **PM Shri Kendriya Vidyalaya, India**, currently in **Class 9**.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Abhinav%20Karn&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+---
 
-🚀 Interested in **Artificial Intelligence, Machine Learning, Web Development, and Android App Development**.
+🚀 Intro
 
-💡 I enjoy building projects, exploring new technologies, and understanding how modern systems work.
+✨ I'm Abhinav, a student at PM Shri Kendriya Vidyalaya, India, currently studying in Class 9.
 
-🤝 Always open to **learning, collaborating, and building cool projects**.
+💡 I'm passionate about Artificial Intelligence, Machine Learning, Web Development, and Android Development.
+
+🛠 I enjoy building projects, experimenting with new technologies, and understanding how modern systems work internally.
+
+🤝 I'm always open to learning, collaborating, and building cool projects with developers around the world.
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=KarnAbhinav00&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
+---
+
+🌐 Connect With Me
+
+<p align="center"><a href="https://instagram.com/abhinav.dev036">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a><a href="mailto:karn.abhinav00@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a></p>
+---
+
+💻 Tech Stack
+
+Languages
+
+     
+
+Web Development
+
+      
+
+Backend & APIs
+
+   
+
+Databases
+
+     
+
+AI / Data Science
+
+     
+
+Tools & Platforms
+
+        
+
 
 ---
 
-# 🌐 Socials
+📊 Metrics Dashboard
 
 <p align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/abhinav.dev036)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:karn.abhinav00@gmail.com)
+<img src="https://raw.githubusercontent.com/KarnAbhinav00/KarnAbhinav00/main/github-metrics.svg"/>
+</p><p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=KarnAbhinav00&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p><p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
-
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat\&logo=javascript\&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat\&logo=typescript\&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat\&logo=css3\&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat\&logo=markdown\&logoColor=white)
-
-### Web Development
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat\&logo=express\&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat\&logo=next.js\&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat\&logo=react\&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat\&logo=react-router\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat\&logo=tailwind-css\&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat\&logo=vite\&logoColor=white)
-
-### Backend & APIs
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat\&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat\&logo=flask\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat\&logo=JSON%20web%20tokens)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat\&logo=socket.io)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat\&logo=mysql\&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat\&logo=sqlite\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat\&logo=Prisma\&logoColor=white)
-
-### AI / Data Science
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat\&logo=pandas\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat\&logo=TensorFlow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat\&logo=PyTorch\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat\&logo=scikit-learn\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat\&logo=matplotlib\&logoColor=black)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat\&logo=github\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat\&logo=githubactions\&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat\&logo=firebase\&logoColor=ffcd34)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat\&logo=netlify)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat\&logo=vercel)
-![Render](https://img.shields.io/badge/render-%46E3B7.svg?style=flat\&logo=render)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat\&logo=Arduino\&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat\&logo=eslint)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KarnAbhinav00&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarnAbhinav00&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=KarnAbhinav00&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=KarnAbhinav00\&theme=tokyonight\&no-frame=true\&margin-w=8)
-
----
-
-# ✍️ Dev Quote(s)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
----
-
-# 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=KarnAbhinav00\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
-
 ---
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=KarnAbhinav00&icon=0&color=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
