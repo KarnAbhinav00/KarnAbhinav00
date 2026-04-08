@@ -1,6 +1,6 @@
 # 💫 About Me
 
-✨ I'm **Abhinav**, a student at **PM Shri Kendriya Vidyalaya, India**, currently in **Class 9**.
+✨ I'm **Abhinav**, a student at **PM Shri Kendriya Vidyalaya, India**, currently in **Class 10**.
 
 🚀 Interested in **Artificial Intelligence, Machine Learning, Web Development, and Android App Development**.
 
